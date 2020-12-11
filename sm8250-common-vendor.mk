@@ -588,6 +588,7 @@ PRODUCT_COPY_FILES += \
   
 
 PRODUCT_PACKAGES += \
+    SoterService \
     ConfURIDialer \
     DeviceInfo \
     DeviceStatisticsService \
