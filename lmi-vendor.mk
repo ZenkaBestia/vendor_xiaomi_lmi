@@ -1,4 +1,3 @@
-  
 # Copyright (C) 2021 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -490,7 +489,6 @@ PRODUCT_PACKAGES += \
     vendor.xiaomi.hardware.mtdservice-V1.1-java \
     vendor.xiaomi.hardware.vsimapp-V1.0-java \
     ActivityExt \
-    com.android.hotwordenrollment.common.util \
     com.qti.dpmframework \
     com.qti.location.sdk \
     com.qti.media.secureprocessor \
