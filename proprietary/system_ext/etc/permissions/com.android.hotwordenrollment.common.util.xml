@@ -16,3 +16,4 @@
 <permissions>
     <library name="com.android.hotwordenrollment.common.util" file="/system_ext/framework/com.android.hotwordenrollment.common.util.jar"/>
 </permissions>
+
